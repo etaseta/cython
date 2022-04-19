@@ -1,5 +1,7 @@
 My Key
 bad740d3b7
+Ali Akbar
+33c5c071b1
 
 
 
@@ -9,9 +11,6 @@ df2acc1638
 0632e32b22
 5bc1b6af35
 
-foreigner
-
-8d86eb8e37
 zeeshan
 2808b5cb09
 
@@ -27,14 +26,3 @@ zeeshan
 
 
 
-
-
-
-
-
-
-
-
-trial
-d02a884add
-3354e78edf
